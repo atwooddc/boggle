@@ -1,13 +1,5 @@
 // File name: Trie.h
 // Author: David Atwood
-// userid: atwooddc
-// Email: david.c.atwood@vanderbilt.edu
-// Class: CS2201
-// Assignment Number: Project 10
-// Honor statement: I attest that I understand the honor code
-// for this class and have neither given nor received any
-// unauthorized aid on this assignment.
-// Last Changed: 1 PM 4/14/20
 
 #ifndef PROJECT9_TRIE_H
 #define PROJECT9_TRIE_H
