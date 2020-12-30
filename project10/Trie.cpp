@@ -1,13 +1,5 @@
 // File name: Trie.cpp
 // Author: David Atwood
-// userid: atwooddc
-// Email: david.c.atwood@vanderbilt.edu
-// Class: CS2201
-// Assignment Number: Project 10
-// Honor statement: I attest that I understand the honor code
-// for this class and have neither given nor received any
-// unauthorized aid on this assignment.
-// Last Changed: 6 PM 4/20/20
 
 #include "Trie.h"
 #include <fstream>
